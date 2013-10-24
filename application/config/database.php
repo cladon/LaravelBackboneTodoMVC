@@ -70,9 +70,9 @@ return array(
 		'mysql' => array(
 			'driver'   => 'mysql',
 			'host'     => 'localhost',
-			'database' => 'apitest',
+			'database' => 'LaravelBackboneTodoMVC',
 			'username' => 'root',
-			'password' => 'root',
+			'password' => '',
 			'charset'  => 'utf8',
 			'prefix'   => '',
 		),
